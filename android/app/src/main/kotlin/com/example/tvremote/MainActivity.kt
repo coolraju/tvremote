@@ -1,4 +1,4 @@
-package com.example.vpnpanel
+package com.example.tvremote
 
 import io.flutter.embedding.android.FlutterActivity
 

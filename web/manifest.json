@@ -1,6 +1,6 @@
 {
-    "name": "vpnpanel",
-    "short_name": "vpnpanel",
+    "name": "tvremote",
+    "short_name": "tvremote",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
